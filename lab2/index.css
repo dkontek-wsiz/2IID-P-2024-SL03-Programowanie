@@ -1,0 +1,12 @@
+div {
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+body {
+
+}
+
+a:hover {
+    cursor: none;
+}
